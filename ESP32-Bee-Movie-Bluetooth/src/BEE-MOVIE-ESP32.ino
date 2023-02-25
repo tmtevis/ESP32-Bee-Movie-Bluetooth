@@ -2,7 +2,7 @@
 #include <BluetoothSerial.h>
 #include <FS.h>
 #include <SPIFFS.h>
-#define FORMAT_SPIFFS_IF_FAILED false
+#define FORMAT_SPIFFS_IF_FAILED true
 
 BluetoothSerial SerialBT;
 
