@@ -87,3 +87,11 @@ Interacting with the device:
         
         - Once paired and connected via Bluetooth serial, send the message "start" to begin streaming the entire script of the Bee Movie until completion. Go ahead, unpair and pair again -- it's still playing.
 
+
+
+
+
+![image](https://user-images.githubusercontent.com/57959739/221375454-e5a51483-754a-42cc-bc20-41e8e0ef5f8a.png)
+
+
+
